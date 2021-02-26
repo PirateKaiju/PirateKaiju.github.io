@@ -1,0 +1,10 @@
+.navitem{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.navitem:hover {
+    background: rebeccapurple;
+    color: white;
+}
